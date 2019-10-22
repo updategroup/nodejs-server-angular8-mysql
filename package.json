@@ -1,0 +1,25 @@
+{
+  "name": "blognodejsserver",
+  "version": "1.0.0",
+  "description": "This is blog nodejs server angular8",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "mysql": "^2.17.1",
+    "rootpath": "^0.1.2"
+  },
+  "engines": {
+    "node": "10.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
