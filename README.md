@@ -15,7 +15,7 @@ Apache MySQL
 
 - Clone the repository
     # Server
-- cd blog-server
+- cd nodejs-server-angular8-mysql
 - npm i --save
 - Import file blog.sql
 - If you want Edit name database in blog-server->database->db.js
@@ -24,7 +24,7 @@ Apache MySQL
 Then
     # Front end
 - https://github.com/tranquoc113/angular8-nodejs-server-mysql.git
-- cd blog-angular
+- cd angular8-nodejs-server-mysql
 - npm i --save
 - npm start 
 - App will auto open to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
